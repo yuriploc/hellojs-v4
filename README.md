@@ -12,7 +12,7 @@
 
 ## Ementa
 
-- [Aula 1](S03E01.md)
+- [Aula 1](E01.md)
   - apresentações - 10m
   - git - 10m
   - GitHub - 20m
