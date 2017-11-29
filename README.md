@@ -20,31 +20,31 @@
   - nodejs - 20m
   - editor de texto - 10m
 
-- [Aula 2](S03E02.md)
+- [Aula 2](E02.md)
   - npm/package.json - 15m
   - JavaScript ES6 server-side - 40m
   - Expressjs - 25m
   - Axios - 10min
 
-- [Aula 3](S03E03.md)
+- [Aula 3](E03.md)
   - sqlite/dbbrowser 20m
   - SQL - 30m
   - knex - 20m
   - knex migrations - 20m
 
-- [Aula 4](S03E04.md)
+- [Aula 4](E04.md)
   - combinando knex, knex migrations e express - 30m
   - pasta static do express - 10m
   - HTML - 10m
   - JavaScript client-side - 40m
 
-- [Aula 5](S03E05.md)
+- [Aula 5](E05.md)
   - CSS - 30m
   - vuejs - 30m
   - axios - 30m
   - ~~browserify - 20m~~
 
-- [Aula 6](S03E06.md)
+- [Aula 6](E06.md)
   - projeto fullstack com browserify - 20m
   - budo - 10m
   - vue-material - 30m
@@ -52,14 +52,14 @@
   - render function e single file components - 20m 
   - ~~font-awesome-icons - 20m~~
 
-- [Aula 7](S03E07.md)
+- [Aula 7](E07.md)
   - projeto client com SPA (single page applications) - 10m
   - ~~conceitos do desenvolvimento fullstack - 20m~~
   - ~~padrões de projetos em javascript - 20m~~
   - levantamento de requisitos - 30m
   - ferramentas de acompanhamento de projeto - 30m
 
-- [Aula 8](S03E08.md)
+- [Aula 8](E08.md)
   - boas práticas e padrões de projeto em javascript - 25m
   - projeto showcase de trabalho - 65m
 
@@ -87,8 +87,8 @@
 
 ## Horário
 
-- das 18:30 às 20:00 (presencial)
-- das 18:30 às 20:30 (hangouts)
+- das 19:00 às 20:30 (presencial)
+- das 19:00 às 21:00 (hangouts)
 
 ## Responsáveis pela realização do minicurso
 
