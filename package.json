@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/yuriploc/hellojs-v4#readme",
   "devDependencies": {
-    "standard": "^10.0.3"
+    "standard": "^10.0.3",
+    "jest": "^21.2.1"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it",
+      "expect"
+    ]
   }
 }
