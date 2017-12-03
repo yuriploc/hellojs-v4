@@ -1,4 +1,4 @@
-const exercises = require('../exercicios/e01/e01-1')
+const exercises = require('../exercicios/e01-1')
 
 describe('multiplyByTen(num)', function () {
   it('deve retornar o argumento após multiplicar por dez', function () {

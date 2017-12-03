@@ -1,4 +1,4 @@
-const exercices = require('../exercicios/e02/e02-1')
+const exercices = require('../exercicios/e02-1')
 
 describe('ES5 func()', () => {
   it('deve retornar 54999', () => {
