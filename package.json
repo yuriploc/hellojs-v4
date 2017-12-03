@@ -4,7 +4,7 @@
   "description": "Curso de JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,8 @@
     "globals": [
       "describe",
       "it",
-      "expect"
+      "expect",
+      "test"
     ]
   }
 }

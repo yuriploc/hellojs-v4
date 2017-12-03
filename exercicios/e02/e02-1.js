@@ -17,4 +17,4 @@ var func = function () {
   return totalTime
 }
 
-console.log(func())
+module.exports = func
